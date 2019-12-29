@@ -1,0 +1,5 @@
+requests>=2.18.4
+matplotlib>=2.1.1
+adjustText>=0.7.3
+beautifulsoup4>=4.8.2
+python_dateutil>=2.8.1
